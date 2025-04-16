@@ -1,7 +1,5 @@
 # 🌀 Superposition & Entanglement: Quantum’s Greatest Party Tricks
 
-*Schrödinger’s cat, coin flips, and just enough math to stay curious.*
-
 ---
 
 ## 🌀 What Is Superposition?
